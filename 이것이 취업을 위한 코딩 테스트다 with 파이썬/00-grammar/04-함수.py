@@ -9,9 +9,6 @@ def 함수명(매개변수):
 이 경우 매개변수의 순서가 달라도 상관없다는 점이 특징
 '''
 
-from re import A
-
-
 def add(a, b):
     print('함수의 결과:', a + b)
 
