@@ -1,4 +1,4 @@
-let str = ['good', 'time', 'good', 'time', 'student'];
+const str = ['good', 'time', 'good', 'time', 'student'];
 
 function solution(s) {
   let answer;
