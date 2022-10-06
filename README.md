@@ -6,6 +6,18 @@
 
 <details>
 
+<summary><strong>10월</strong></summary>
+
+**10월 3일 ~ 10월 9일**
+
+| 월  | 화  | 수  | 목  | 금  | 토  | 일  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 💤  | 💤  | 💤  | ✅  |     |     |     |
+
+</details>
+
+<details>
+
 <summary><strong>9월</strong></summary>
 
 **9월 5일 ~ 9월 11일**
